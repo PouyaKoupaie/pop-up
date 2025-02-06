@@ -1,0 +1,15 @@
+.confirmButton {
+  border-radius: 10%;
+  background-color: cornflowerblue;
+  padding: 20px;
+}
+.cancelButton {
+  border-radius: 10%;
+  background-color: firebrick;
+  padding: 20px;
+  margin-left: 10px;
+}
+.darkPopup {
+  background-color: #1e1e1e !important;
+  color: #ffffff !important;
+}
